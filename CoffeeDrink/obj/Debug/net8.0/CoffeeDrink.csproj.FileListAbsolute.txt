@@ -1,0 +1,65 @@
+C:\Users\Maria Rita\source\repos\CoffeeDrink\CoffeeDrink\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Maria Rita\source\repos\CoffeeDrink\CoffeeDrink\bin\Debug\net8.0\appsettings.json
+C:\Users\Maria Rita\source\repos\CoffeeDrink\CoffeeDrink\bin\Debug\net8.0\CoffeeDrink.exe
+C:\Users\Maria Rita\source\repos\CoffeeDrink\CoffeeDrink\bin\Debug\net8.0\CoffeeDrink.deps.json
+C:\Users\Maria Rita\source\repos\CoffeeDrink\CoffeeDrink\bin\Debug\net8.0\CoffeeDrink.runtimeconfig.json
+C:\Users\Maria Rita\source\repos\CoffeeDrink\CoffeeDrink\bin\Debug\net8.0\CoffeeDrink.dll
+C:\Users\Maria Rita\source\repos\CoffeeDrink\CoffeeDrink\bin\Debug\net8.0\CoffeeDrink.pdb
+C:\Users\Maria Rita\source\repos\CoffeeDrink\CoffeeDrink\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Maria Rita\source\repos\CoffeeDrink\CoffeeDrink\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Maria Rita\source\repos\CoffeeDrink\CoffeeDrink\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Maria Rita\source\repos\CoffeeDrink\CoffeeDrink\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Maria Rita\source\repos\CoffeeDrink\CoffeeDrink\obj\Debug\net8.0\CoffeeDrink.csproj.AssemblyReference.cache
+C:\Users\Maria Rita\source\repos\CoffeeDrink\CoffeeDrink\obj\Debug\net8.0\CoffeeDrink.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria Rita\source\repos\CoffeeDrink\CoffeeDrink\obj\Debug\net8.0\CoffeeDrink.AssemblyInfoInputs.cache
+C:\Users\Maria Rita\source\repos\CoffeeDrink\CoffeeDrink\obj\Debug\net8.0\CoffeeDrink.AssemblyInfo.cs
+C:\Users\Maria Rita\source\repos\CoffeeDrink\CoffeeDrink\obj\Debug\net8.0\CoffeeDrink.csproj.CoreCompileInputs.cache
+C:\Users\Maria Rita\source\repos\CoffeeDrink\CoffeeDrink\obj\Debug\net8.0\CoffeeDrink.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Maria Rita\source\repos\CoffeeDrink\CoffeeDrink\obj\Debug\net8.0\CoffeeDrink.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Maria Rita\source\repos\CoffeeDrink\CoffeeDrink\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Maria Rita\source\repos\CoffeeDrink\CoffeeDrink\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Maria Rita\source\repos\CoffeeDrink\CoffeeDrink\obj\Debug\net8.0\staticwebassets\msbuild.CoffeeDrink.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Maria Rita\source\repos\CoffeeDrink\CoffeeDrink\obj\Debug\net8.0\staticwebassets\msbuild.build.CoffeeDrink.props
+C:\Users\Maria Rita\source\repos\CoffeeDrink\CoffeeDrink\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CoffeeDrink.props
+C:\Users\Maria Rita\source\repos\CoffeeDrink\CoffeeDrink\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CoffeeDrink.props
+C:\Users\Maria Rita\source\repos\CoffeeDrink\CoffeeDrink\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Maria Rita\source\repos\CoffeeDrink\CoffeeDrink\obj\Debug\net8.0\scopedcss\bundle\CoffeeDrink.styles.css
+C:\Users\Maria Rita\source\repos\CoffeeDrink\CoffeeDrink\obj\Debug\net8.0\CoffeeDrink.csproj.CopyComplete
+C:\Users\Maria Rita\source\repos\CoffeeDrink\CoffeeDrink\obj\Debug\net8.0\CoffeeDrink.dll
+C:\Users\Maria Rita\source\repos\CoffeeDrink\CoffeeDrink\obj\Debug\net8.0\refint\CoffeeDrink.dll
+C:\Users\Maria Rita\source\repos\CoffeeDrink\CoffeeDrink\obj\Debug\net8.0\CoffeeDrink.pdb
+C:\Users\Maria Rita\source\repos\CoffeeDrink\CoffeeDrink\obj\Debug\net8.0\CoffeeDrink.genruntimeconfig.cache
+C:\Users\Maria Rita\source\repos\CoffeeDrink\CoffeeDrink\obj\Debug\net8.0\ref\CoffeeDrink.dll
+C:\Users\Maria Rita\Desktop\Nova pasta\CoffeeDrink\CoffeeDrink\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Maria Rita\Desktop\Nova pasta\CoffeeDrink\CoffeeDrink\bin\Debug\net8.0\appsettings.json
+C:\Users\Maria Rita\Desktop\Nova pasta\CoffeeDrink\CoffeeDrink\bin\Debug\net8.0\CoffeeDrink.exe
+C:\Users\Maria Rita\Desktop\Nova pasta\CoffeeDrink\CoffeeDrink\bin\Debug\net8.0\CoffeeDrink.deps.json
+C:\Users\Maria Rita\Desktop\Nova pasta\CoffeeDrink\CoffeeDrink\bin\Debug\net8.0\CoffeeDrink.runtimeconfig.json
+C:\Users\Maria Rita\Desktop\Nova pasta\CoffeeDrink\CoffeeDrink\bin\Debug\net8.0\CoffeeDrink.dll
+C:\Users\Maria Rita\Desktop\Nova pasta\CoffeeDrink\CoffeeDrink\bin\Debug\net8.0\CoffeeDrink.pdb
+C:\Users\Maria Rita\Desktop\Nova pasta\CoffeeDrink\CoffeeDrink\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Maria Rita\Desktop\Nova pasta\CoffeeDrink\CoffeeDrink\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Maria Rita\Desktop\Nova pasta\CoffeeDrink\CoffeeDrink\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Maria Rita\Desktop\Nova pasta\CoffeeDrink\CoffeeDrink\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Maria Rita\Desktop\Nova pasta\CoffeeDrink\CoffeeDrink\obj\Debug\net8.0\CoffeeDrink.csproj.AssemblyReference.cache
+C:\Users\Maria Rita\Desktop\Nova pasta\CoffeeDrink\CoffeeDrink\obj\Debug\net8.0\CoffeeDrink.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria Rita\Desktop\Nova pasta\CoffeeDrink\CoffeeDrink\obj\Debug\net8.0\CoffeeDrink.AssemblyInfoInputs.cache
+C:\Users\Maria Rita\Desktop\Nova pasta\CoffeeDrink\CoffeeDrink\obj\Debug\net8.0\CoffeeDrink.AssemblyInfo.cs
+C:\Users\Maria Rita\Desktop\Nova pasta\CoffeeDrink\CoffeeDrink\obj\Debug\net8.0\CoffeeDrink.csproj.CoreCompileInputs.cache
+C:\Users\Maria Rita\Desktop\Nova pasta\CoffeeDrink\CoffeeDrink\obj\Debug\net8.0\CoffeeDrink.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Maria Rita\Desktop\Nova pasta\CoffeeDrink\CoffeeDrink\obj\Debug\net8.0\CoffeeDrink.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Maria Rita\Desktop\Nova pasta\CoffeeDrink\CoffeeDrink\obj\Debug\net8.0\CoffeeDrink.sourcelink.json
+C:\Users\Maria Rita\Desktop\Nova pasta\CoffeeDrink\CoffeeDrink\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Maria Rita\Desktop\Nova pasta\CoffeeDrink\CoffeeDrink\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Maria Rita\Desktop\Nova pasta\CoffeeDrink\CoffeeDrink\obj\Debug\net8.0\staticwebassets\msbuild.CoffeeDrink.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Maria Rita\Desktop\Nova pasta\CoffeeDrink\CoffeeDrink\obj\Debug\net8.0\staticwebassets\msbuild.build.CoffeeDrink.props
+C:\Users\Maria Rita\Desktop\Nova pasta\CoffeeDrink\CoffeeDrink\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CoffeeDrink.props
+C:\Users\Maria Rita\Desktop\Nova pasta\CoffeeDrink\CoffeeDrink\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CoffeeDrink.props
+C:\Users\Maria Rita\Desktop\Nova pasta\CoffeeDrink\CoffeeDrink\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Maria Rita\Desktop\Nova pasta\CoffeeDrink\CoffeeDrink\obj\Debug\net8.0\scopedcss\bundle\CoffeeDrink.styles.css
+C:\Users\Maria Rita\Desktop\Nova pasta\CoffeeDrink\CoffeeDrink\obj\Debug\net8.0\CoffeeDrink.csproj.CopyComplete
+C:\Users\Maria Rita\Desktop\Nova pasta\CoffeeDrink\CoffeeDrink\obj\Debug\net8.0\CoffeeDrink.dll
+C:\Users\Maria Rita\Desktop\Nova pasta\CoffeeDrink\CoffeeDrink\obj\Debug\net8.0\refint\CoffeeDrink.dll
+C:\Users\Maria Rita\Desktop\Nova pasta\CoffeeDrink\CoffeeDrink\obj\Debug\net8.0\CoffeeDrink.pdb
+C:\Users\Maria Rita\Desktop\Nova pasta\CoffeeDrink\CoffeeDrink\obj\Debug\net8.0\CoffeeDrink.genruntimeconfig.cache
+C:\Users\Maria Rita\Desktop\Nova pasta\CoffeeDrink\CoffeeDrink\obj\Debug\net8.0\ref\CoffeeDrink.dll
